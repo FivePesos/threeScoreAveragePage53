@@ -1,7 +1,4 @@
-//HeaderFiles
 #include <stdio.h>
-#include <stdlib.h>
-
 /*Function declaration that prompts the user the students 1st,
 2nd and 3rd score/grade and reads the first grade, second grade, and third grade*/
 void readGrade(int* firstScore,int* secondScore, int* thirdScore);
